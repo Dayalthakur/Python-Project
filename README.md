@@ -1,2 +1,2 @@
 # Python-Practice
-This project includes code for creating ATM functionality using the Python programming language.
+This repository includes small application project using Python language.
